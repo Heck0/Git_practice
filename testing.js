@@ -1,5 +1,5 @@
 const namedFunction = ()=> {
-    console.log('hola x2')
+    console.log('hola x2222')
 }
 
 namedFunction();
